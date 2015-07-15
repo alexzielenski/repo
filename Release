@@ -1,0 +1,8 @@
+Origin: Alex Zielenski
+Label: Alex Zielenski
+Suite: stable
+Version: 1.0
+Codename: orpheus
+Architectures: iphoneos-arm
+Components: main
+Description: The personal repository of Alex Zielenski
