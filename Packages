@@ -19,21 +19,21 @@ Name: TinyBar
 Sponsor: Alex Zielenski <support@alexzielenski.com>
 
 Package: com.alexzielenski.zeppelin
-Version: 2.1.0-10
+Version: 2.1.1-1
 Architecture: iphoneos-arm
 Maintainer: Alex Zielenski
-Installed-Size: 2048
+Installed-Size: 2196
 Depends: firmware (>= 4.2), mobilesubstrate, preferenceloader
-Filename: deb/com.alexzielenski.zeppelin_2.1.0-10_iphoneos-arm.deb
-Size: 955158
-MD5sum: c644bc1ea3f3f0f6f14593c6623b1eca
-SHA1: 992314f176bd0e82ef104eec4cbbe52412ed3cef
-SHA256: f2a194c37fe6f9561703e613d436b98ed5d3fe8d98b0f0eba39cf9cc5464ee78
+Filename: deb/com.alexzielenski.zeppelin_2.1.1-1_iphoneos-arm.deb
+Size: 961890
+MD5sum: 2efd4f65eecd969fc7dca751a6beb072
+SHA1: 0907ac534585dd77db4fb0965a9758542915c3a5
+SHA256: e33f60859985ed1f70eb25ee99ea964bd31067cb54c6d4ceddbaa3ca001a533f
 Section: Tweaks
 Homepage: http://www.alexzielenski.com
 Description: Replaces carrier text with an image!
 Author: Alex Zielenski <http://www.alexzielenski.com>
-Icon: http://i.imgur.com/PtfISWz.png
+Icon: http://i.imgur.com/tvLxnB5.png
 Name: Zeppelin
 Sponsor: Alex Zielenski <support@alexzielenski.com>
 
